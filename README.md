@@ -6,13 +6,10 @@
 - 🤝 I’m looking to collaborate on open-source projects in Machine Learning and Data Science.
 - 📫 How to reach me: [rishbahnegi780@gmail.com](mailto:rishbahnegi780@gmail.com)
 
-![Banner](https://yourimageurl.com/banner.png)
-
-## 🚀 Pinned Repositories
-- **[Sentiment Analysis](https://github.com/RishabhNegi1/Project-Sentiment-Analysis)**: Developed a sentiment analysis system using NLP techniques and advanced transformer models.
-- **[Stock Price Prediction](https://github.com/RishabhNegi1/Stock-Price-Prediction)**: Implemented an LSTM-based model to predict stock prices using historical data.
+![Banner](https://github.com/yourusername/yourrepository/blob/main/path-to-your-image/banner.png)
 
 ## 🛠 Languages and Tools:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
@@ -29,6 +26,7 @@
 </p>
 
 ## 📊 GitHub Stats:
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RishabhNegi1&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhNegi1&layout=compact" alt="Top Languages" />
@@ -36,6 +34,7 @@
 </p>
 
 ## Connect with me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/rishabh-negi-9056b6234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -45,4 +44,4 @@
 ## 🤝 Let’s Collaborate!
 I’m always open to new collaborations and ideas. Feel free to reach out if you’re interested in working on something exciting together!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RishabhNegi1.RishabhNegi1)
+![Visitor Count](https://komarev.com/ghpvc/?username=RishabhNegi1&style=flat-square&color=blue)
