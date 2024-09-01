@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rishabh Negi
 
-## 4th Year Thapar University Student | ML & NLP Enthusiast
+## 4th Year Thapar University Student | ML & GenAI Enthusiast
 - 🔍 I’m interested in Machine Learning, Generative AI, and Deep Learning.
 - 🌱 I’m currently working on advanced NLP techniques and Time Series Prediction models.
 - 🤝 I’m looking to collaborate on open-source projects in Machine Learning and Data Science.
@@ -17,3 +17,4 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishabh-negi-9056b6234/)
+
