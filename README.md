@@ -1,11 +1,11 @@
 # Hi 👋, I'm Rishabh Negi
 
-## 3rd Year Thapar University Student | ML & NLP Enthusiast
-
+## 4th Year Thapar University Student | ML & NLP Enthusiast
+- 🔍 I’m interested in Machine Learning, Generative AI and Deep Learning.
 - 🌱 I’m currently working on advanced NLP techniques and Time Series Prediction models.
 - 🤝 I’m looking to collaborate on open-source projects in Machine Learning and Data Science.
-- 📫 How to reach me: [your.email@domain.com](mailto:your.email@domain.com)
-- 🌐 Know more about my work: [My Portfolio](https://www.yourportfoliolink.com)
+- 📫 How to reach me: [rishbahnegi780@gmail.com]
+
 
 ## 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -17,5 +17,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourlinkedinusername/](https://www.linkedin.com/in/rishabh-negi-9056b6234/))
+
