@@ -17,6 +17,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
   <img src="https://static.thenounproject.com/png/1065124-200.png" alt="NLTK" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Apache_Hadoop_logo.svg" alt="Apache Hadoop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
 
