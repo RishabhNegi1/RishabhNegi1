@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
   <img src="https://static.thenounproject.com/png/1065124-200.png" alt="NLTK" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/HuggingFace_logo.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
 </p>
 
 
