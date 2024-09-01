@@ -6,7 +6,8 @@
 - 🤝 I’m looking to collaborate on open-source projects in Machine Learning and Data Science.
 - 📫 How to reach me: [rishbahnegi780@gmail.com](mailto:rishbahnegi780@gmail.com)
 
-![Banner](https://github.com/yourusername/yourrepository/blob/main/path-to-your-image/banner.png)
+![Banner](https://github.com/RishabhNegi1/RishabhNegi1/blob/main/Machine%20Learning%20(1).png?raw=true)
+
 
 ## 🛠 Languages and Tools:
 
