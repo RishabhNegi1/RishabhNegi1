@@ -23,12 +23,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-
-
-
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishabhNegi1&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhNegi1&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishabhNegi1&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhNegi1&layout=compact" alt="Top Languages" />
+</p>
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishabh-negi-9056b6234/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishabh-negi-9056b6234/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
