@@ -1,12 +1,9 @@
 # Hi 👋, I'm Rishabh Negi
 
-## Passionate about Software Development, Machine Learning, Artificial Intelligence, and Agentic AI
-- 🔍 I’m interested in Machine Learning, Generative AI, and Deep Learning.
-- 🌱 I’m currently working on advanced NLP techniques and Time Series Prediction models.
-- 🤝 I’m looking to collaborate on open-source projects in Machine Learning and Data Science.
+## Passionate about Human Software Interaction, Machine Learning and Artificial Intelligence
 - 📫 How to reach me: [rishbahnegi780@gmail.com](mailto:rishbahnegi780@gmail.com)
 
-![Banner](https://github.com/RishabhNegi1/RishabhNegi1/blob/main/Machine%20Learning%20(1).png?raw=true)
+
 
 
 ## 🛠 Languages and Tools:
